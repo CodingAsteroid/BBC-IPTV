@@ -6,7 +6,7 @@
 
 BBC-IPTV is a curated M3U playlist providing access to all BBC channels in High Definition. 
 
-The primary goal of this project is **reliability** and **metadata accuracy**. The channel IDs in these playlists are specifically tagged to match perfectly with the **epgshare01** Electronic Program Guide (EPG). This ensures you get accurate show times, descriptions, and channel logos without manual mapping.
+The primary goal of this project is **reliability** and **metadata accuracy**. The channel IDs in these playlists are specifically tagged to match perfectly with the **IPTV-ORG** Electronic Program Guide (EPG). This ensures you get accurate show times, descriptions, and channel logos without manual mapping.
 
 ## ✨ Features
 
@@ -28,8 +28,7 @@ We offer two versions of the playlist depending on the theme of your IPTV player
 ### 2. Configure the EPG (Electronic Program Guide)
 For the program guide to work, you must add the following EPG source URL to your IPTV player settings.
 
-**EPG Source URL:**
-https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz
+**URL:** `https://iptv-org.github.io/epg/guides/uk.xml.gz`
 
 
 ### 3. Setup Instructions
