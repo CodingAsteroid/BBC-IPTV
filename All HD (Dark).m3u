@@ -39,9 +39,9 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_w
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC One Yorks" tvg-id="BBC.One.Yorks.HD.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One Yorks
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC Parliament" tvg-id="BBC.Parliament.HD.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Parliament.png",BBC Parliament
+#EXTINF:-1 tvg-name="BBC Parliament" tvg-id="BBC.Parliament.HD.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Parliament%20(Alt).png",BBC Parliament
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC Red Button" tvg-id="BBC.RB.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Red%20Button.png",BBC RB 1
+#EXTINF:-1 tvg-name="BBC Red Button" tvg-id="BBC.RB.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Red%20Button%20(Alt).png",BBC RB 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC Scotland" tvg-id="BBCScotlandHD.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Scotland.png",BBC Scotland
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_mse_v0_hevc.mpd
