@@ -12,7 +12,7 @@ The primary goal of this project is **reliability** and **metadata accuracy**. T
 
 * **Complete Collection:** Includes all major BBC TV channels.
 * **HD Quality:** All streams are provided in High Definition.
-* **EPG Ready:** Pre-configured `tvg-id` tags for instant syncing with `epgshare01`.
+* **EPG Ready:** Pre-configured `tvg-id` tags for instant syncing with `IPTV-ORG`.
 * **Themed Logos:** Specialized playlists for Light and Dark player interfaces.
 
 ## 🚀 How to Use
