@@ -6,13 +6,13 @@
 
 BBC-IPTV is a curated M3U playlist providing access to all BBC channels in High Definition. 
 
-The primary goal of this project is **reliability** and **metadata accuracy**. The channel IDs in these playlists are specifically tagged to match perfectly with the **IPTV-ORG** Electronic Program Guide (EPG). This ensures you get accurate show times, descriptions, and channel logos without manual mapping.
+The primary goal of this project is **reliability** and **metadata accuracy**. The channel IDs in these playlists are specifically tagged to match perfectly with the **Freeview-EPG** project. This ensures you get accurate show times, descriptions, and channel logos directly from UK Freeview data.
 
 ## ✨ Features
 
 * **Complete Collection:** Includes all major BBC TV channels.
 * **HD Quality:** All streams are provided in High Definition.
-* **EPG Ready:** Pre-configured `tvg-id` tags for instant syncing with `epgshare01`.
+* **EPG Ready:** Pre-configured `tvg-id` tags for instant syncing with `Freeview-EPG`.
 * **Themed Logos:** Specialized playlists for Light and Dark player interfaces.
 
 ## 🚀 How to Use
@@ -28,8 +28,8 @@ We offer two versions of the playlist depending on the theme of your IPTV player
 ### 2. Configure the EPG (Electronic Program Guide)
 For the program guide to work, you must add the following EPG source URL to your IPTV player settings.
 
-**URL:** `https://iptv-org.github.io/epg/guides/uk.xml.gz`
-
+**Source:** `Freeview-EPG`
+**URL:** `https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml`
 
 ### 3. Setup Instructions
 1.  Open your IPTV Player (e.g., TiviMate, Televizo, Smarters).
@@ -47,6 +47,9 @@ For the program guide to work, you must add the following EPG source URL to your
 * CBeebies HD
 * BBC Scotland HD
 * BBC Parliament
+
+## 👏 Credits
+* **EPG Data:** A huge thanks to the [Freeview-EPG](https://github.com/dp247/Freeview-EPG) project for providing the high-quality Electronic Program Guide data used in this playlist.
 
 ## ⚠️ Disclaimer
 * This repository contains a playlist configuration file only.

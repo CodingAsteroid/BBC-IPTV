@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BBC Alba" tvg-id="BBCAlba.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Alba.png",BBC Alba
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC Four" tvg-id="BBCFour.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Four.png",BBC Four
+#EXTINF:-1 tvg-name="BBC Four" tvg-id="BBCFourHD.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Four.png",BBC Four
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC News Worldwide" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20News.png",BBC News (Worldwide)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
@@ -9,45 +9,45 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC One Channel Islands" tvg-id="BBCOneChannelIslands.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One Channel Islands
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One East" tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One East
+#EXTINF:-1 tvg-name="BBC One East" tvg-id="BBCOneEast.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One East
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One East Midlands" tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One East Midlands
+#EXTINF:-1 tvg-name="BBC One East Midlands" tvg-id="BBCOneEastMidlands.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One East Midlands
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One East Yorkshire" tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One East Yorkshire
+#EXTINF:-1 tvg-name="BBC One East Yorkshire" tvg-id="BBCOneYorkshire.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One East Yorkshire
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One London" tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One London
+#EXTINF:-1 tvg-name="BBC One London" tvg-id="BBCOneLondonHD.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One London
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One North East & Cumbria" tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One North East & Cumbria
+#EXTINF:-1 tvg-name="BBC One North East & Cumbria" tvg-id="BBCOneNorthEastCumbria.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One North East & Cumbria
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One North West" tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One North West
+#EXTINF:-1 tvg-name="BBC One North West" tvg-id="BBCOneNorthWest.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One North West
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC One Northern Ireland" tvg-id="BBCOneNorthernIreland.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One%20Northern%20Ireland.png",BBC One Northern Ireland
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One Scotland" tvg-id="BBCOneScotland.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One%20Scotland.png",BBC One Scotland
+#EXTINF:-1 tvg-name="BBC One Scotland" tvg-id="BBCOneScotHD.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One%20Scotland.png",BBC One Scotland
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One South" tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One South
+#EXTINF:-1 tvg-name="BBC One South" tvg-id="BBCOneSouth.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One South
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One South East" tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One South East
+#EXTINF:-1 tvg-name="BBC One South East" tvg-id="BBCOneSouthEast.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One South East
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One South West" tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One South West
+#EXTINF:-1 tvg-name="BBC One South West" tvg-id="BBCOneSouthWest.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One South West
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One Wales" tvg-id="BBCOneWales.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One%20Wales.png",BBC One Wales
+#EXTINF:-1 tvg-name="BBC One Wales" tvg-id="BBCOneWalesHD.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One%20Wales.png",BBC One Wales
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One West" tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One West
+#EXTINF:-1 tvg-name="BBC One West" tvg-id="BBCOneWest.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One West
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One West Midlands" tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One West Midlands
+#EXTINF:-1 tvg-name="BBC One West Midlands" tvg-id="BBCOneWestMidlands.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One West Midlands
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One Yorks" tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One Yorks
+#EXTINF:-1 tvg-name="BBC One Yorks" tvg-id="BBCOneYorksLincs.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20One.png",BBC One Yorks
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC Parliament" tvg-id="BBCParliament.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Parliament.png",BBC Parliament
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC Red Button" tvg-id="BBCRedButton.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Red%20Button.png",BBC RB 1
+#EXTINF:-1 tvg-name="BBC Red Button" tvg-id="BBCRedButton1.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Red%20Button.png",BBC RB 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC Scotland" tvg-id="BBCScotland.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Scotland.png",BBC Scotland
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC Three" tvg-id="BBCThree.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Three.png",BBC Three
+#EXTINF:-1 tvg-name="BBC Three" tvg-id="BBCThreeHD.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Three.png",BBC Three
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC Two" tvg-id="BBCTwo.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Two.png",BBC Two
+#EXTINF:-1 tvg-name="BBC Two" tvg-id="BBCTwoHD.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Two.png",BBC Two
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC Two Northern Ireland" tvg-id="BBCTwoNorthernIreland.uk" tvg-logo="https://raw.githubusercontent.com/CodingAsteroid/BBC-IPTV/refs/heads/main/img/png/BBC%20Two%20Northern%20Ireland.png",BBC Two Northern Ireland
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_mse_v0_hevc.mpd
